@@ -1,0 +1,19 @@
+{
+  "name": "Freedom Dashboard",
+  "version": "1.0.0",
+  "description": "The app for accessing Freedom! Network's Dashboard quickly",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/realjbtytm/freedom-dashboard",
+  "keywords": [
+    "Freedom!",
+    "Dashboard",
+  ],
+  "author": "RainDropInMCYT",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
